@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Square radio button style -->
+
+    <style name="SquareRadioButton" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:background">@drawable/square_background</item>
+    </style>
+
+    <!-- Square background for radio button -->
+
+    <drawable name="square_background">#FF2C2C2C</drawable>
+
+</resources>
